@@ -1,3 +1,6 @@
+
+![Local Image](ethernode-screenshot.png)
+
 # EtherNode Dapp
 
 The EtherNode Dapp is a decentralized application that provides users with a user-friendly interface to interact with the EtherNode ecosystem. The application seamlessly integrates with two main components: the smart contract backend and the frontend interface.
@@ -48,5 +51,8 @@ yarn start
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your web browser to access the EtherNode Dapp locally.
+
+### OR
+Visit [https://ether-node-dapp-8a4a71.netlify.app/](https://ether-node-dapp-8a4a71.netlify.app/) for demo version on testnet
 
 By following these steps, you'll have the EtherNode Dapp running on your local server, allowing you to explore and interact with the decentralized features provided by the EtherNode ecosystem. Happy exploring! 🌐🚀
